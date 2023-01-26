@@ -1,6 +1,6 @@
 # Python_test_tasks_companies
 
-#Code Example:
+
 ```
 <!DOCTYPE html>
 <html>
